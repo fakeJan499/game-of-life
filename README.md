@@ -1,3 +1,3 @@
 # game-of-life
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-ea3veq)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/game-of-life-fakejan499)
