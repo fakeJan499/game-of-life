@@ -1,0 +1,27 @@
+.controls {
+  margin-bottom: 12px;
+}
+
+.slider-container {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.row {
+  display: flex;
+}
+
+.cell {
+  display: block;
+  width: 15px;
+  height: 15px;
+}
+
+.cell--active {
+  background-color: black;
+}
+
+.hidden {
+  display: none;
+}
